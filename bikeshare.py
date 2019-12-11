@@ -10,7 +10,7 @@ months = {'january':1, 'february':2, 'march':3, 'april':4, 'may':5, 'june':6, "n
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
-
+    asking the user to choose the city 
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
